@@ -1,1 +1,9 @@
-# EnhancementTwo
+# Enhancement Two
+
+This project came from CS 260: Data Structures and Algorithms. This was created to demonstrate the use of binary search trees in C++. This code was built to filter and sort through a file of bids. A binary tree is a data structure that contains nodes (some type of data) and references (pointers). It is organized in a hierarchical structure and is used for efficient searching, insertion, and deletion operations. Binary trees are set up to be efficient.
+
+Looking at the original code, the first thing I see that needs work are the comments. The Fix Me comments are still left in the code from when the assignment was assigned. It also looks like the Remove Node function is missing. The code builds and runs, but some of the functions do not seem to work as intended. Biggest are of improvement here will be functionality. The base of the code is solid, it just needs to be refined.
+
+One part of the enhancement I want to make on this project is to fix the functionality and clean up the comments. This will help showcase my understanding of the assignment as well as my knowledge of data structures and how they are used. The second part of the enhancement I want to make is to improve the efficiency of the project. I am aiming to be able to sort the bids in order by bid ID. I want to add functionality to the code to sort the bids in order and print them. I was able to complete this by adding a second binary search tree. The course outcomes I demonstrate with this enhancement are: design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution while managing the trade-offs involved in design choices.  
+
+The new code is a lot cleaner and now has the functionality to search by Bid ID. I learned a lot more about binary search trees through this enhancement. I was able to figure out how to utilize two binary search trees to improve efficiency. I was also able to fix the original project so that it operates the way it was intended. 
